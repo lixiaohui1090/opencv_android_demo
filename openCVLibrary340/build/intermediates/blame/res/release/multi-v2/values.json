@@ -1,0 +1,12 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\othwe\\opencv\\opencv-3.4.0-android-sdk\\opencv_android_demo\\openCVLibrary340\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": []
+        },
+        {
+            "outputFile": "C:\\othwe\\opencv\\opencv-3.4.0-android-sdk\\opencv_android_demo\\openCVLibrary340\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+            "map": []
+        }
+    ]
+}

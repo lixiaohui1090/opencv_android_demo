@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">opencv_android_demo</string>
+    <string name="title_activity_jni">JniActivity</string>
+</resources>
